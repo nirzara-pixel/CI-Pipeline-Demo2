@@ -25,3 +25,6 @@ jobs:
 
       - name: Display Completion Message
         run: echo "Pipeline Executed Successfully"
+        
+      - name: invaild command
+        run: abcxyz
